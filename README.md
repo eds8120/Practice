@@ -6,5 +6,9 @@
 
 *** NEW edits to the UI
 
+<<<<<<< HEAD
 
 *more server side stuff
+=======
+* checking...*
+>>>>>>> ui
